@@ -3,22 +3,22 @@
 [![Euijin Song's GitHub stats](https://github-readme-stats.vercel.app/api?username=lstar2397&count_private=true&show_icons=true&theme=tokyonight&locale=kr)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--START_SECTION:waka-->
-![Lines of code](https://img.shields.io/badge/%EC%A0%80%EB%8A%94%20%EC%97%AC%ED%83%9C%EA%B9%8C%EC%A7%80%20-87937%20%EC%A4%84%EC%9D%98%20%EC%BD%94%EB%93%9C%EB%A5%BC%20%EC%9E%91%EC%84%B1%ED%96%88%EC%96%B4%EC%9A%94.-blue)
+![Lines of code](https://img.shields.io/badge/%EC%A0%80%EB%8A%94%20%EC%97%AC%ED%83%9C%EA%B9%8C%EC%A7%80%20-83577%20%EC%A4%84%EC%9D%98%20%EC%BD%94%EB%93%9C%EB%A5%BC%20%EC%9E%91%EC%84%B1%ED%96%88%EC%96%B4%EC%9A%94.-blue)
 
 📊 **저는 이번주를 이렇게 시간을 보냈어요.** 
 
 ```text
 💬 프로그래밍 언어들: 
-C#                       2 mins              ██████████████░░░░░░░░░░░   57.38% 
-Other                    2 mins              ██████████░░░░░░░░░░░░░░░   42.62%
+C#                       43 mins             ███████████████████░░░░░░   78.49% 
+Other                    11 mins             █████░░░░░░░░░░░░░░░░░░░░   21.51%
 
 🔥 에디터들: 
-Visual Studio            4 mins              █████████████████████████   100.0%
+Visual Studio            55 mins             █████████████████████████   100.0%
 
 ```
 
 
- Last Updated on 30/11/2021
+ Last Updated on 05/12/2021
 <!--END_SECTION:waka-->
 
 <!--

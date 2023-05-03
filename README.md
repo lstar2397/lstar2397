@@ -3,7 +3,7 @@
 [![Euijin Song's GitHub stats](https://github-readme-stats.vercel.app/api?username=lstar2397&count_private=true&show_icons=true&theme=tokyonight&locale=kr)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-139%20hrs%2034%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-140%20hrs%2025%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/%EC%A0%80%EB%8A%94%20%EC%97%AC%ED%83%9C%EA%B9%8C%EC%A7%80%20-587.7%20thousand%20%EC%A4%84%EC%9D%98%20%EC%BD%94%EB%93%9C%EB%A5%BC%20%EC%9E%91%EC%84%B1%ED%96%88%EC%96%B4%EC%9A%94.-blue)
 
@@ -11,15 +11,16 @@
 
 ```text
 💬 프로그래밍 언어들: 
-Python                   3 hrs 55 mins       ████████████████████████░   97.41 % 
-JSON                     6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.59 % 
+Python                   4 hrs 47 mins       █████████████████████░░░░   83.81 % 
+Other                    55 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.15 % 
+TOML                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 % 
 
 🔥 에디터들: 
-VS Code                  4 hrs 1 min         █████████████████████████   100.00 % 
+VS Code                  5 hrs 43 mins       █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 02/05/2023 21:16:45 UTC
+ Last Updated on 03/05/2023 21:17:04 UTC
 <!--END_SECTION:waka-->
 
 <!--

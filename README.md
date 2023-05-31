@@ -3,24 +3,26 @@
 [![Euijin Song's GitHub stats](https://github-readme-stats.vercel.app/api?username=lstar2397&count_private=true&show_icons=true&theme=tokyonight&locale=kr)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-147%20hrs%2037%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-147%20hrs%2038%20mins-blue)
 
-![Lines of code](https://img.shields.io/badge/%EC%A0%80%EB%8A%94%20%EC%97%AC%ED%83%9C%EA%B9%8C%EC%A7%80%20-587.8%20thousand%20%EC%A4%84%EC%9D%98%20%EC%BD%94%EB%93%9C%EB%A5%BC%20%EC%9E%91%EC%84%B1%ED%96%88%EC%96%B4%EC%9A%94.-blue)
+![Lines of code](https://img.shields.io/badge/%EC%A0%80%EB%8A%94%20%EC%97%AC%ED%83%9C%EA%B9%8C%EC%A7%80%20-588.4%20thousand%20%EC%A4%84%EC%9D%98%20%EC%BD%94%EB%93%9C%EB%A5%BC%20%EC%9E%91%EC%84%B1%ED%96%88%EC%96%B4%EC%9A%94.-blue)
 
 📊 **저는 이번주를 이렇게 시간을 보냈어요.** 
 
 ```text
 💬 프로그래밍 언어들: 
-Python                   15 mins             ███████████████░░░░░░░░░░   61.57 % 
-Properties               9 mins              █████████░░░░░░░░░░░░░░░░   37.81 % 
-Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.62 % 
+Python                   25 mins             ███████████░░░░░░░░░░░░░░   42.67 % 
+HTML                     17 mins             ███████░░░░░░░░░░░░░░░░░░   29.40 % 
+Properties               9 mins              ████░░░░░░░░░░░░░░░░░░░░░   16.52 % 
+JavaScript               5 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   09.66 % 
+INI                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.37 % 
 
 🔥 에디터들: 
-VS Code                  25 mins             █████████████████████████   100.00 % 
+VS Code                  59 mins             █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 30/05/2023 21:15:44 UTC
+ Last Updated on 31/05/2023 21:16:07 UTC
 <!--END_SECTION:waka-->
 
 <!--
